@@ -1,9 +1,0 @@
-{
-  "name": "Go + Chi",
-  "description": "Lightweight Go API with Chi router",
-  "tags": ["go", "api", "rest", "chi"],
-  "language": "go",
-  "testCommand": "go test ./...",
-  "updateCommand": "go get -u ./... && go mod tidy",
-  "devCommand": "go run ."
-}
